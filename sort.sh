@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#author: Zhaoyi Huang
 # usage example: ./sort.sh
 
 #feel free to change Jan, Feb... to 1, 2.....
